@@ -58,7 +58,7 @@ https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/flavors-of-india
 ```
 ## Usage Instructions 🔧
 
-Open the project folder and click `/home.html`.
+Clone or Download the project, and Open the project folder and click `/home.html`.
 
 # Hi, I'm NILAVARASAN-M! 👋
 
