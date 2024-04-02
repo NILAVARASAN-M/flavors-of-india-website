@@ -1,15 +1,11 @@
 
 <div align="center">
-
-# Flavors-Of-India-Website
+  
+# 🌶️ Flavors-Of-India-Website 🍽️
 </div>
 
-<div align="center">
-🔹
-<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html">Click Here</a>
-</div>
+https://github.com/NILAVARASAN-M/flavors-of-india-website/assets/158806492/ae1c75d3-b41c-4b89-966a-2ae51a925fe5
 
-![Html photo](image1.png)
 
 <div align="center">
 
@@ -18,6 +14,12 @@
 ![html](https://forthebadge.com/images/badges/made-with-javascript.svg)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)&nbsp;
 </div>
+
+<div align="center">
+🔹
+<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/flavors-of-india-website/blob/master/home.html">Click Here</a>
+</div>
+
 
 ## Description 📝
 
@@ -50,13 +52,13 @@ Explore India's flavors with favorite dishes from the North and South, discover 
 ## Check Out My Website 💼
 
 Click the link to view my website 
-<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html">click here to view</a>
+<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/flavors-of-india-website/blob/master/home.html">click here to view</a>
 ```
-https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html
+https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/flavors-of-india-website/blob/master/home.html
 ```
 ## Usage Instructions 🔧
 
-Open the project folder and click `/simple_portfolio.html`.
+Open the project folder and click `/home.html`.
 
 # Hi, I'm NILAVARASAN-M! 👋
 
